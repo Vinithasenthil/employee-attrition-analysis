@@ -36,7 +36,7 @@ This project has been deployed using *Streamlit*, allowing users to interact wit
 
 You can access the application using the link below.
 
-[Open Application](YOUR_STREAMLIT_APP_LINK)
+[Open Application](https://employee-attrition-analysis-y29xkzppc3kcg2mavnfu6m.streamlit.app/)
 
 ---
 
