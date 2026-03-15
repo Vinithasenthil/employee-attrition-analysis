@@ -39,6 +39,11 @@ You can access the application using the link below.
 [Open Application](https://employee-attrition-analysis-y29xkzppc3kcg2mavnfu6m.streamlit.app/)
 
 ---
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
+
+---
 
 ## Project Overview
 
